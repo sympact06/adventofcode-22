@@ -1,6 +1,6 @@
 <?php
 
-// Advent of Code 2022  Olivier Lvl 3
+//   Olivier Lvl 3
 
 $data = file_get_contents('input.txt');
 $arr_data = preg_split('/\n+/', $data, -1, PREG_SPLIT_NO_EMPTY);
